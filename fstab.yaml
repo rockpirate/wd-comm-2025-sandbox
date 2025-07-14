@@ -1,6 +1,6 @@
   mountpoints:
   /:
-    url: https://drive.google.com/drive/u/0/folders/1rtdqW7yf3mIjF8AhU9dWj6MLhrivd6NK
+    url: https://drive.google.com/drive/u/1/folders/1goCmexB4d3JQ2mClgR_geI0f4H2ENqB-
     type: markup
 
 folders:
